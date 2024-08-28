@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>EOTC</title>  
+ 
+        <!-- import the webpage's stylesheet goes here -->
+        <link rel="stylesheet" href="css/style.css">    
+    </head>
+    
+    <body>
+        <div class="grid-container">
+
+        <div class="header">
+			<!-- <img src="images/maxresdefault.jpg" alt="Logo" class="image"/> -->
+					
+		</div>
+				
+            
+            <div class="nav">
+				<ul>
+					<li><a href="index.html">Home</a>
+					</li>
+					<li><a href="">Activities</a>
+						<ul>
+							<li><a href="page1.html">Community Service</a></li>
+							<li><a href="page2.html">Outdoors</a></li>
+						</ul>
+					</li>
+					<li> <a href="page3.html">Contact</a>
+					</li>
+				</ul>
+			</div>				
+            <div class="content"> <!-- This contains the text -->
+					<img src="images/TC_Logo_Contact.jpg" alt="Zipline" style="width:500px;height:465px;">
+                <div class="scroll-area">
+                    <h1>Contact</h1>
+					
+						<hr></hr>
+						<p>Tawa College
+Ph: 232 8184
+Email: secretary@tawacollege.school.nz
+EOTC Coordinator (email for more in-depth information on the day)
+Mrs Ria Edmonds: redmonds@tawacollege.school.nz
+</p>
+						
+						<p>
+						</p>
+
+						<hr></hr>
+						<p>Duncan Street, Tawa, Wellington 5028 secretary@tawacollege.school.nz
+Telephone: 04-232 8184
+Email: secretary@tawacollege.school.nz</p>
+						
+						<p>
+						</p>
+						<hr></hr>
+						<p>
+						
+						<p>
+						</p>                      
+			<button onclick="topFunction()" id="myBtn" title="Go to top">ㅤ↑ㅤ</button>
+        
+			</div>
+        
+        <div class="footer">
+			<p> Copyright © Timothy Marshall 2024, all rights reserved. </p>
+		</div>
+
+		<!--Import the back to top button JavaScript goes here -->
+		<script type="text/javascript" src="js/backtotop.js"></script>
+    </body>
+</html>
