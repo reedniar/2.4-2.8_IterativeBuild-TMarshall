@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>EOTC</title>  
+ 
+        <!-- import the webpage's stylesheet goes here -->
+        <link rel="stylesheet" href="css/style.css">    
+    </head>
+    
+    <body>
+        <div class="grid-container">
+
+        <div class="header">
+
+					
+		</div>
+				
+            
+            <div class="nav">
+				<ul>
+					<li><a href="index.html">Home</a>
+					</li>
+					<li><a href="">Activities</a>
+						<ul>
+							<li><a href="page1.html">Community Service</a></li>
+							<li><a href="page2.html">Outdoors</a></li>
+						</ul>
+					</li>
+					<li> <a href="page3.html">Contact</a>
+					</li>
+				</ul>
+			</div>				
+            <div class="content"> <!-- This contains the text -->
+					<img src="images/ComService_Bigger.jpg" alt="Zipline" style="width:900px;height:600px;">
+                <div class="scroll-area">
+                    <h1>Community Service</h1>
+					
+						<hr></hr>
+						<p>Students will complete one day of community service assisting local residents and businesses. This will usually occur within walking distance of Tawa College for all Year 10 students. This day has the key focus of citizenship and has been a great success in previous years.
+</p>
+						
+						<p>
+						</p>
+
+						<hr></hr>
+						<p>Meeting time and location: The school gym at 9.15am
+
+What to bring: A day pack with your lunch, water bottle, sun hat, a warm jumper and rain jacket if the weather forecast is bad. It will still go ahead unless there is torrential rain. Please wear appropriate old clothes for potential gardening/painting jobs and closed toed shoes. Bring any medication required.</p>
+						
+						<p>
+						</p>
+						<hr></hr>
+						<p>
+						
+Students will spend a day completing community service in a small group with friends in the Tawa basin, supervised by a staff member. This is a highly valuable experience where students have the chance to interact with the elderly helping them with gardening, painting etc or assisting local food banks, kindergartens, hospice shops and charities for the day. Students will usually walk to their allocated job with a staff member, however a very small number of jobs will be on the fringes of the Tawa Basin and therefore they may be driven by a staff member in their groups.
+						<p>
+						</p>                      
+			<button onclick="topFunction()" id="myBtn" title="Go to top">ㅤ↑ㅤ</button>
+        
+			</div>
+        
+        <div class="footer">
+			<p> Copyright © Timothy Marshall 2024, all rights reserved. </p>
+		</div>
+
+		<!--Import the back to top button JavaScript goes here -->
+		<script type="text/javascript" src="js/backtotop.js"></script>
+    </body>
+</html>
