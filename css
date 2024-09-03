@@ -51,7 +51,7 @@ html {
 	background-image: url('../images/maxresdefault.jpg');
 }
 	
-.image {
+  .image {
 	width: 100%;
 	position: relative;
 	height: 70vh;
@@ -127,6 +127,7 @@ ul li:hover ul {
 
   .content{
     background-color: #FFFFFF;
+	max-height: 500px;
 }
   
 /* To set up and call a Class from the HTML File we use a . in the CSS.*/
